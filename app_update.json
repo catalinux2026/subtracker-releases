@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.10.8",
-  "downloadUrl": "https://github.com/catalinux2026/subtracker-releases/releases/download/v1.10.8/app-debug.apk",
-  "changelog": "- Interfață full-screen stabilă, cu derulare fluidă și auto-salvare automată.\n- Curățare butoane redundante și rearanjare controale în antet.\n- Sistem direct de actualizări din aplicație."
+  "versionCode": 20,
+  "versionName": "1.10.9",
+  "downloadUrl": "https://github.com/catalinux2026/subtracker-releases/releases/download/v1.10.9/app-debug.apk",
+  "changelog": "- Actualizare la versiunea 1.10.9 cu optimizări și funcționalități noi."
 }
