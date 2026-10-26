@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.10.9",
-  "downloadUrl": "https://github.com/catalinux2026/subtracker-releases/releases/download/v1.10.9/app-debug.apk",
-  "changelog": "- Actualizare la versiunea 1.10.9 cu optimizări și funcționalități noi."
+  "versionCode": 21,
+  "versionName": "1.11.0",
+  "downloadUrl": "https://github.com/catalinux2026/subtracker-releases/releases/download/v1.11.0/app-debug.apk",
+  "changelog": "- Teme revizuite: badge-uri elegante cu contur pe tema deschisă și eliminarea contrastului agresiv.\n- Sincronizare perfectă a temei Dark Orange în ecranul de Setări și luminozitate optimizată.\n- Filtre All/Personal/Work rafinate cu nuanțe pastelate."
 }
